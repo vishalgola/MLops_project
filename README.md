@@ -1,4 +1,3 @@
 # MLops_project 
-
- This is my learning for mlops
+This is an example for mlops
  
